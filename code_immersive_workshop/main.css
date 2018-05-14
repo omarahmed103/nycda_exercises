@@ -1,0 +1,48 @@
+body {
+  background-color: #336;
+}
+#slideshow {
+  background-color: maroon;
+  min-height: 525px;
+  width: 1000px;
+  margin: 50px auto;
+  padding: 25px;
+
+
+
+  /*text-align: center;
+  font-size: 36px;
+  color: white;*/
+}
+
+#bigPicDiv {
+  width: 800px;
+  height: 475px;
+  background-color: azure;
+  float: left;
+  overflow-y: scroll;
+
+/* margin-left: auto;
+margin-right: auto;*/
+  }
+
+#thumbDiv {
+  width: 180px;
+  /*ackground-color: aqua;*/
+  height: 475px;
+  float: right;
+  overflow-y: scroll;
+}
+
+img {
+  width: 100%;
+
+}
+
+#thumbDiv img {
+  cursor: pointer;
+}
+
+#thumbDiv img:hover {
+  filter: saturate(3);
+}

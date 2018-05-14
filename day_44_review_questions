@@ -1,0 +1,78 @@
+1. Create an analogy for the relationship between a model, view and a controller?
+
+	View is straight forward this is where we keep all html related files which users see.
+
+	Model is related to database
+
+	Controller is where we keep the logic which help us communicate between view and model.
+
+2. Name all 4 types of http method names and which CRUD letters match with those method names.
+
+	C = Post
+	R = Get
+	U = Put or Patch
+	D = Delete
+
+3. Why do we use database migrations? What problem does it solve?
+
+	Database migrations create Schema
+	Gives you the ability to manage changes in database.
+
+4. Which framework would you use to create a webapp that publically displays images of beautiful landscapes?
+	Bootstrap or Materialize
+
+5. What is the name of an ActiveRecord class that represents a database table?
+
+	ActiveRecord.
+	ActiveRecord gives us the ability to work with data
+
+6. What terminal shell application would I use to test out a new language feature in ruby?
+
+	irb
+
+7. ruby is to server side what javascript is to the ______ side.
+
+	server
+
+8. If you knew I wanted to search through a large list very efficiently, which of the algorithms we've learned in class would you use? What if the list was unsorted?
+
+	Linear Search
+
+9. What http method would I use in sinatra to define a route where I am updating a post?
+
+	put
+
+10. If you had to represent the relationship between several people standing on line for food at Jubilee, what data structure that we've learned in class would you use?
+
+	Queues
+
+11. What is the difference between a micro and full stack framework? When would you use one over the other? Be brief.
+
+	For smaller projects we use micro framework which will not have much build in tools but it will give you more freedom.
+	Sinatra, nodeJs.
+
+	Fullstack framework comes with alot of build in tools which helps you get the job done faster but it does not give you much freedom.
+
+	Ruby on raild. jango. laurabel. flask
+
+12. A session works by storing a ______ on your computer?
+	
+	cookie and cookie is a file which is stored on user's computer.
+	cookie has users login information such as id.
+
+13. Templates are a powerful feature of sinatra because they allow us to do what?
+
+	Allow us to addhere DRY principle. Don,t Repeat Yourself (DRY)
+
+14. Reflect on your time so far in this course. If you had to name your proudest moment so far, what would it be?
+
+15. How are you feeling today? :-D
+
+	Excited
+
+
+
+
+
+
+
